@@ -9,6 +9,32 @@ The goal of this repository is to help Excel users, data analysts, and professio
 - **excel_shortcut_keys/**  
   Complete list of Excel keyboard shortcuts using Ctrl, Shift, Alt, and all key combinations.
 
+```bash
+    excel-learning-hub
+    └── excel-shortcuts
+        ├── 01_ctrl-shortcuts.md
+        ├── 02_shift-shortcuts.md
+        ├── 03_ctrl-shift-shortcuts.md
+        ├── 04_alt-shortcuts.md
+        └── 05_combo-shortcuts-ctrl-alt-shift.md
+```
+
+- **pivot/**
+  Complete step-by-step notes on Excel Pivot Tables covering basics, structure, operations, analysis, visualization, formatting, errors, and interview preparation.
+
+```bash
+    excel-learning-hub
+     └── pivot/
+         ├── basics.md
+         ├── pivot_table.md
+         ├── operations.md
+         ├── analysis.md
+         ├── visualization.md
+         ├── formatting.md
+         ├── errors.md
+         └── interview.md
+```
+
 - **excel_pivot_shortcut_keys/**  
   Frequently used shortcut keys specific to Pivot Tables for faster data analysis.
 
