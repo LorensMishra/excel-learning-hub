@@ -1,5 +1,7 @@
 # Excel Notes 📘
 
+<img width="1170" height="491" alt="image" src="https://github.com/user-attachments/assets/bfd3e734-fa25-4eea-a39f-d604d966e019" />
+
 This repository is a centralized collection of Microsoft Excel learning resources designed for structured learning, quick reference, and long-term use. It covers essential and advanced Excel topics, including keyboard shortcuts, pivot table shortcuts, formulas, functions, and theory notes.
 
 The goal of this repository is to help Excel users, data analysts, and professionals improve productivity, reduce dependency on the mouse, and develop a strong understanding of Excel concepts through well-organized notes and practical references.
